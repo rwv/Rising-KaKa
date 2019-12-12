@@ -1,0 +1,182 @@
+{
+  "smog": {
+    "FrameCount": 18,
+    "FrameRate": 24.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "StopDrag": {
+    "FrameCount": 9,
+    "FrameRate": 12.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "hidden": {
+    "FrameCount": 24,
+    "FrameRate": 12.0,
+    "FrameHeight": 300,
+    "FrameWidth": 300
+  },
+  "fallback": {
+    "FrameCount": 8,
+    "FrameRate": 12.0,
+    "FrameHeight": 300,
+    "FrameWidth": 300
+  },
+  "StopScan": {
+    "FrameCount": 10,
+    "FrameRate": 12.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "showup": {
+    "FrameCount": 14,
+    "FrameRate": 12.0,
+    "FrameHeight": 300,
+    "FrameWidth": 300
+  },
+  "Sleeping": {
+    "FrameCount": 21,
+    "FrameRate": 12.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "Ignorev": {
+    "FrameCount": 24,
+    "FrameRate": 12.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "RbtnClk": {
+    "FrameCount": 17,
+    "FrameRate": 12.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "Findv": {
+    "FrameCount": 39,
+    "FrameRate": 12.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "Dragging": {
+    "FrameCount": 8,
+    "FrameRate": 12.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "StaFindv": {
+    "FrameCount": 15,
+    "FrameRate": 12.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "Bye": {
+    "FrameCount": 16,
+    "FrameRate": 12.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "Scanning": {
+    "FrameCount": 13,
+    "FrameRate": 12.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "Deletef": {
+    "FrameCount": 40,
+    "FrameRate": 12.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "StaSleep": {
+    "FrameCount": 18,
+    "FrameRate": 12.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "dialog": {
+    "FrameCount": 25,
+    "FrameRate": 12.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "hiding": {
+    "FrameCount": 26,
+    "FrameRate": 12.0,
+    "FrameHeight": 300,
+    "FrameWidth": 300
+  },
+  "StoSleep": {
+    "FrameCount": 7,
+    "FrameRate": 12.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "Gally": {
+    "FrameCount": 39,
+    "FrameRate": 24.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "Stand": {
+    "FrameCount": 39,
+    "FrameRate": 12.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "StoFindv": {
+    "FrameCount": 14,
+    "FrameRate": 12.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "DblClk": {
+    "FrameCount": 12,
+    "FrameRate": 12.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "Eatwm": {
+    "FrameCount": 40,
+    "FrameRate": 12.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "hands": {
+    "FrameCount": 17,
+    "FrameRate": 12.0,
+    "FrameHeight": 300,
+    "FrameWidth": 300
+  },
+  "Killv": {
+    "FrameCount": 21,
+    "FrameRate": 12.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "vanish": {
+    "FrameCount": 20,
+    "FrameRate": 24.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "Hello": {
+    "FrameCount": 24,
+    "FrameRate": 12.0,
+    "FrameHeight": 212,
+    "FrameWidth": 212
+  },
+  "StatDrag": {
+    "FrameCount": 17,
+    "FrameRate": 24.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  },
+  "StarScan": {
+    "FrameCount": 9,
+    "FrameRate": 12.0,
+    "FrameHeight": 128,
+    "FrameWidth": 128
+  }
+}
