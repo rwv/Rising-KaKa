@@ -4,7 +4,7 @@
 ## All actions
 
 | Action | Frame Count | Frame Rate | Height | Width | Image |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | smog | 18 | 24.0 | 128 | 128 | ![smog](https://github.com/rwv/Rising-KaKa/blob/master/Resources/apng/smog.png?raw=true) |
 | StopDrag | 9 | 12.0 | 128 | 128 | ![StopDrag](https://github.com/rwv/Rising-KaKa/blob/master/Resources/apng/StopDrag.png?raw=true) |
 | hidden | 24 | 12.0 | 300 | 300 | ![hidden](https://github.com/rwv/Rising-KaKa/blob/master/Resources/apng/hidden.png?raw=true) |
